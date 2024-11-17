@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @BeppeBaldassari
+- 👀 I’m an aspiring quantitative trader
+- 🌱 I’m currently learning python, GO and AI
+- 💞️ I’m looking to collaborate on a very ambitious robotics project
+- 📫 How to reach me: idk
+- ⚡ Fun fact: I'm currenlty an Economics, Management and Computer Science Student
